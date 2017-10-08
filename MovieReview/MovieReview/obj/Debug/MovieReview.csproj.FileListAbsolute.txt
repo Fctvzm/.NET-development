@@ -1,0 +1,16 @@
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\MovieReview\MovieReview\bin\Debug\MovieReview.exe.config
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\MovieReview\MovieReview\bin\Debug\MovieReview.exe
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\MovieReview\MovieReview\bin\Debug\MovieReview.pdb
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\MovieReview\MovieReview\obj\Debug\MovieReview.csprojResolveAssemblyReference.cache
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\MovieReview\MovieReview\obj\Debug\MovieReview.Form1.resources
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\MovieReview\MovieReview\obj\Debug\MovieReview.Properties.Resources.resources
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\MovieReview\MovieReview\obj\Debug\MovieReview.csproj.GenerateResource.Cache
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\MovieReview\MovieReview\obj\Debug\MovieReview.exe
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\MovieReview\MovieReview\obj\Debug\MovieReview.pdb
+C:\Users\Асем Зайткалиева\Documents\Visual Studio 2015\Projects\MovieReview\MovieReview\bin\Debug\WebDriver.dll
+C:\Users\Асем Зайткалиева\Documents\Visual Studio 2015\Projects\MovieReview\MovieReview\bin\Debug\WebDriver.xml
+C:\Users\Асем Зайткалиева\Documents\Visual Studio 2015\Projects\MovieReview\MovieReview\bin\Debug\MovieReview.XML
+C:\Users\Assem\Documents\Visual Studio 2015\Projects\MovieReview\MovieReview\bin\Debug\MovieReview.exe.config
+C:\Users\Assem\Documents\Visual Studio 2015\Projects\MovieReview\MovieReview\bin\Debug\MovieReview.XML
+C:\Users\Assem\Documents\Visual Studio 2015\Projects\MovieReview\MovieReview\obj\Debug\MovieReview.exe
+C:\Users\Assem\Documents\Visual Studio 2015\Projects\MovieReview\MovieReview\obj\Debug\MovieReview.pdb

@@ -1,0 +1,6 @@
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\FileSeacher\FileSeacher\bin\Debug\FileSeacher.exe.config
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\FileSeacher\FileSeacher\bin\Debug\FileSeacher.exe
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\FileSeacher\FileSeacher\bin\Debug\FileSeacher.pdb
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\FileSeacher\FileSeacher\obj\Debug\FileSeacher.exe
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\FileSeacher\FileSeacher\obj\Debug\FileSeacher.pdb
+C:\Users\Асем Зайткалиева\Documents\Visual Studio 2015\Projects\FileSeacher\FileSeacher\obj\Debug\FileSeacher.csprojResolveAssemblyReference.cache

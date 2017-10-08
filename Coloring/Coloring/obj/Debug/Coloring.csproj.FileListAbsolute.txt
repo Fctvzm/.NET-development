@@ -1,0 +1,6 @@
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\Coloring\Coloring\bin\Debug\Coloring.exe.config
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\Coloring\Coloring\obj\Debug\Coloring.csprojResolveAssemblyReference.cache
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\Coloring\Coloring\bin\Debug\Coloring.exe
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\Coloring\Coloring\bin\Debug\Coloring.pdb
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\Coloring\Coloring\obj\Debug\Coloring.exe
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\Coloring\Coloring\obj\Debug\Coloring.pdb

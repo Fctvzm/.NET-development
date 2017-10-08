@@ -1,0 +1,6 @@
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\Bees\Bees\bin\Debug\Bees.exe.config
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\Bees\Bees\bin\Debug\Bees.exe
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\Bees\Bees\bin\Debug\Bees.pdb
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\Bees\Bees\obj\Debug\Bees.csprojResolveAssemblyReference.cache
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\Bees\Bees\obj\Debug\Bees.exe
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\Bees\Bees\obj\Debug\Bees.pdb

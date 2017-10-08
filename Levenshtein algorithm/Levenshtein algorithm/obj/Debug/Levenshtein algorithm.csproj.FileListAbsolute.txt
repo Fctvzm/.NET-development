@@ -1,0 +1,6 @@
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\Levenshtein algorithm\Levenshtein algorithm\bin\Debug\Levenshtein algorithm.exe.config
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\Levenshtein algorithm\Levenshtein algorithm\bin\Debug\Levenshtein algorithm.exe
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\Levenshtein algorithm\Levenshtein algorithm\bin\Debug\Levenshtein algorithm.pdb
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\Levenshtein algorithm\Levenshtein algorithm\obj\Debug\Levenshtein algorithm.csprojResolveAssemblyReference.cache
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\Levenshtein algorithm\Levenshtein algorithm\obj\Debug\Levenshtein algorithm.exe
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\Levenshtein algorithm\Levenshtein algorithm\obj\Debug\Levenshtein algorithm.pdb

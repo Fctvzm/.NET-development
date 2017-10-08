@@ -1,0 +1,6 @@
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\FileWatchingDemo\FileWatchingDemo\bin\Debug\FileWatchingDemo.exe.config
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\FileWatchingDemo\FileWatchingDemo\bin\Debug\FileWatchingDemo.exe
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\FileWatchingDemo\FileWatchingDemo\bin\Debug\FileWatchingDemo.pdb
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\FileWatchingDemo\FileWatchingDemo\obj\Debug\FileWatchingDemo.csprojResolveAssemblyReference.cache
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\FileWatchingDemo\FileWatchingDemo\obj\Debug\FileWatchingDemo.exe
+c:\users\асем зайткалиева\documents\visual studio 2015\Projects\FileWatchingDemo\FileWatchingDemo\obj\Debug\FileWatchingDemo.pdb

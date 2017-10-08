@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MovieReview</name>
+    </assembly>
+    <members>
+        <member name="T:MovieReview.Form1">
+            <summary>
+            This is a main form
+            </summary>
+        </member>
+        <member name="M:MovieReview.Form1.#ctor">
+            <summary>
+            Initializes WebDriver
+            </summary>
+        </member>
+        <member name="M:MovieReview.Form1.button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            This button sends a text from textbox and starts a thread
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:MovieReview.Form1.components">
+            <summary>
+            Обязательная переменная конструктора.
+            </summary>
+        </member>
+        <member name="M:MovieReview.Form1.Dispose(System.Boolean)">
+            <summary>
+            Освободить все используемые ресурсы.
+            </summary>
+            <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        </member>
+        <member name="M:MovieReview.Form1.InitializeComponent">
+            <summary>
+            Требуемый метод для поддержки конструктора — не изменяйте 
+            содержимое этого метода с помощью редактора кода.
+            </summary>
+        </member>
+        <member name="T:MovieReview.MovieFeature">
+            <summary>
+            This class collects all Features
+            </summary>
+        </member>
+        <member name="M:MovieReview.MovieFeature.#ctor(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.Dictionary{System.String,System.Int32})">
+            <summary>
+            Constructor of MovieFeature
+            </summary>
+            <param name="name"> name of feature</param>
+            <param name="syns"> synonyms of feature</param>
+            <param name="adjs">adjectives for this feature</param>
+        </member>
+        <member name="M:MovieReview.MovieFeature.getMF(System.String)">
+            <summary>
+            Static method which find MovieFeature in list features
+            </summary>
+            <param name="s"> name of feature</param>
+            <returns></returns>
+        </member>
+        <member name="M:MovieReview.MovieFeature.getSummary">
+            <summary>
+            This is a scale of output
+            </summary>
+            <returns>string with output</returns>
+        </member>
+        <member name="M:MovieReview.MovieFeature.getMax(MovieReview.MovieFeature)">
+            <summary>
+            To find an adjective with maximum value of counter
+            </summary>
+            <param name="mf"></param>
+            <returns>returns a maximum value of adjective</returns>
+        </member>
+        <member name="M:MovieReview.Program.Main">
+            <summary>
+            Главная точка входа для приложения.
+            </summary>
+        </member>
+        <member name="T:MovieReview.WebDriver">
+            <summary>
+            This class is created for the seeking browser
+            </summary>
+        </member>
+        <member name="M:MovieReview.WebDriver.init">
+            <summary>
+            Cretes new Feature and initializes all adjecctives 
+            </summary>
+        </member>
+        <member name="M:MovieReview.WebDriver.AddingFeatures">
+            <summary>
+            This method adds features
+            </summary>
+        </member>
+        <member name="M:MovieReview.WebDriver.FindingMovieReview(System.String)">
+            <summary>
+            This method parses reviews from webpage
+            </summary>
+            <param name="name"></param>
+            <returns>Summary</returns>
+        </member>
+        <member name="M:MovieReview.WebDriver.searching">
+            <summary>
+            Parses each sentence and checks it for feature and adjectives
+            </summary>
+        </member>
+        <member name="M:MovieReview.WebDriver.getText(System.Int32)">
+            <summary>
+            Gets text from review
+            </summary>
+            <param name="i"></param>
+            <returns>string text</returns>
+        </member>
+        <member name="M:MovieReview.WebDriver.IsAdj(System.String)">
+            <summary>
+             Check if the word is adjective
+            </summary>
+            <param name="s">Word to be checked</param>
+            <returns> boolean value</returns>
+        </member>
+        <member name="T:MovieReview.Properties.Resources">
+            <summary>
+              Класс ресурсов со строгим типом для поиска локализованных строк и пр.
+            </summary>
+        </member>
+        <member name="P:MovieReview.Properties.Resources.ResourceManager">
+            <summary>
+              Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
+            </summary>
+        </member>
+        <member name="P:MovieReview.Properties.Resources.Culture">
+            <summary>
+              Переопределяет свойство CurrentUICulture текущего потока для всех
+              подстановки ресурсов с помощью этого класса ресурсов со строгим типом.
+            </summary>
+        </member>
+    </members>
+</doc>
